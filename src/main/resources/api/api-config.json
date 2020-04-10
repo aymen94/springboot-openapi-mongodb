@@ -1,0 +1,12 @@
+{
+  "apiPackage": "xyz.aymen.example.api",
+  "modelPackage": "xyz.aymen.example.model",
+  "invokerPackage": "xyz.aymen.example.config",
+  "groupId": "xyz.aymen.example",
+  "artifactId": "spring-boot-mongodb-openapi-docker",
+  "library": "spring-boot",
+  "serializableModel": true,
+  "java8": true,
+  "delegatePattern": true,
+  "dateLibrary": "java8"
+}
