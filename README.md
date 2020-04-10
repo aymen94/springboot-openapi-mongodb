@@ -46,7 +46,7 @@ Or you can compile and run with Maven command:
 mvn spring-boot:run
 ```
 
-which starts a webserver on port 8080 (http://localhost:8080) and serves SwaggerUI where can inspect and try existing endpoints.
+after followed above command,  the web server is started at the http://localhost:8080.
 
 # Useful commands
 Useful cURL or Postman to test. It can be tested with swagger also: http://localhost:8080/swagger-ui.html
